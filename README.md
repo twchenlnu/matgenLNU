@@ -1,2 +1,2 @@
 # matgenLNU
-A computational materials science workflows Solution by Liaoning University.
+A computational material science workflow Solution by Liaoning University.
